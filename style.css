@@ -251,6 +251,7 @@ footer {
     justify-content: center;
     align-items: center;
     font-size: 0.85rem;
+    cursor: pointer;
 }
 
 .foot-panel2 {
