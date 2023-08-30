@@ -98,6 +98,28 @@
     border: 2px solid orange;
 }
 
+/* language */
+.language-container {
+    display: flex;
+    gap: 5px;
+}
+
+.language-img {
+    width: 20px;
+}
+
+.language-img img {
+    width: 100%;
+}
+
+.language-select {
+    font-size: 0.85rem;
+    font-weight: 700;
+    background-color: #0f1111;
+    color: white;
+    border: none;
+}
+
 /* box4 */
 
 span {
